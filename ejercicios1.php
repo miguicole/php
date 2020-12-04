@@ -64,8 +64,8 @@
 		}
 		echo "</td>";
 	}
-	echo "</tr";
-	echo "</table";
+	echo "</tr>";
+	echo "</table>";
 
 
 	echo "<h1>Ejercicio7</h1>";
